@@ -13,3 +13,6 @@ tests/*.txt
 tests/*.html
 tests/*.png
 tests/local.py
+.coverage
+.vscode/
+workspace.code-workspace
